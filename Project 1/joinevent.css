@@ -1,0 +1,169 @@
+
+.boilersocial_logo {
+    float: left;
+    display: block;
+    width: 11%;
+    opacity: 100%;
+
+}
+
+.boiler_social {
+     text-align: center;
+     margin-top: 30%;
+}
+
+.search-container input[type=text] {
+    float: right;
+    display: block;
+    margin: 10px;
+    margin-top: 1.1%;
+    padding: 1.5%;
+    width: 20%;
+    border-radius: 20px;
+    border: 1px solid rgb(129, 127, 127);
+}
+.btn-createevent {
+    float: right;
+    background-color: #6DB8BB;
+    color: white;
+    border-radius: 7px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #6DB8BB;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.column {
+
+    padding-bottom: 0px;
+}
+
+.column-nav {
+
+    background-color: white;
+    overflow: auto;
+}
+
+.avatar {
+    width: 6%;
+    height: 6%;
+    opacity: 100%;
+    float: right;
+
+}
+
+/* --------- Added CSS --------- */
+#filterimage{
+
+  position: relative;
+  top: 10px;
+  max-width: 80%;
+}
+#filter ul{
+  list-style: none;
+}
+
+#filter ul li {
+  text-align: left;
+  height: 4rem;
+  display: inline-block;
+  line-height: 4rem;
+}
+#filter_button{
+  border-radius: 24px;
+  pointer-events: none;
+  background-color: #869684;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border: 1px solid #869684
+}
+.Sort-by{
+  float: right;
+  margin-right: 50px;
+}
+/* --------- end ---------- */
+
+
+.btn-joinevent {
+    float: right;
+    background-color: #6DB8BB;
+    color: white;
+    border-radius: 7px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #6DB8BB;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.image-text {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.purdue_cropp {
+    width: 100%;
+    height: 70px;
+    margin-left: 0px;
+}
+
+.eventBlock{
+  border-radius: 7px;
+  margin: 20px 20px;
+  padding: 15px 15px;
+  background-color: #C4C4C4;
+  height: 460px;
+  width: 270px;
+  display: inline-block;
+}
+
+.eventBlock img{
+  position: relative;
+  left: 10%;
+  top: 10px;
+  border-radius: 7px;
+}
+
+.eventBlock h1{
+  text-align: center;
+  font-size: 2em;
+}
+
+.eventBlock h2{
+  font-size: 1em;
+  text-align: center;
+}
+
+.eventBlock ul li, #filteredResults ul li{
+  background-color: #869684;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 2px 4px;
+  margin: 0px 2px;
+  font-size: .75em;
+  border-radius: 15px;
+}
+
+.joinButton{
+  border: none;
+  border-radius: 15px;
+  background-color: #6DB8BB;
+  text-align: center;
+  padding: 15px 15px;
+  text-align: center;
+  position: relative;
+  left: 45%;
+  font-weight: bold;
+}

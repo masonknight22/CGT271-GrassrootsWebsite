@@ -1,0 +1,110 @@
+body {
+     background-color: lightgrey;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.boilersocial_logo {
+    float: left;
+    display: block;
+    width: 11%;
+    opacity: 100%;
+
+}
+
+.boiler_social {
+     text-align: center;
+     margin-top: 30%;
+}
+
+.search-container input[type=text] {
+    float: right;
+    display: block;
+    margin: 10px;
+    margin-top: 1.1%;
+    padding: 1.5%;
+    width: 20%;
+    border-radius: 20px;
+    border: 1px solid rgb(129, 127, 127);
+}
+
+.column {
+
+    padding-bottom: 0px;
+}
+
+.column-nav {
+
+    background-color: white;
+    overflow: auto;
+}
+
+.avatar {
+    width: 6%;
+    height: 6%;
+    opacity: 100%;
+    float: right;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 700;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+
+.button-container {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-btn {
+    background-color:  #6DB8BB;
+    color: white;
+    border-radius: 7px;
+    padding: 10px 20px 10px 20px;
+
+    border: 1px solid white;
+    width: 270px;
+}
+
+
+img {
+    opacity: 55%;
+
+}
+
+/* Page 2 */
+.nav-btn-page2 {
+    float: right;
+    display: block;
+    width: 28%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.joinevent-btn {
+    background-color: rgb(103, 103, 238);
+    color: white;
+    border-radius: 7px;
+    padding: 10px 20px 10px 20px;
+
+    border: 1px solid white;
+    width: 270px;
+}
