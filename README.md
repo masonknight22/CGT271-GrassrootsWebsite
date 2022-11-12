@@ -1,4 +1,4 @@
-# CGT271-GrassrootsWebsite
+# Grass Roots Website
 Community-fostered website that utilizes the local surroundings to create a collaborative social network.
 
 ![](LandingPage.png)
